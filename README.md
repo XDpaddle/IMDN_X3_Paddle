@@ -12,7 +12,7 @@ DIV2K dataset is used for training
 ```bash
 # 
 python test_IMDN_X3.py --test_hr_folder Test_Datasets/Set5/ --test_lr_folder Test_Datasets/Set5_LR/x3/ --output_folder results/Set5/x3 --upscale_factor 3
-
+```
 
 
 
